@@ -1,4 +1,2 @@
 # Kap_Git
-ggggg
-
-Esto es un comentario
+Apuntes/Ejercicio Bootcamp de Data Science
